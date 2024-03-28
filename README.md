@@ -4,7 +4,7 @@ This repository contains my Arduino Projects which I do in my free time. Main pu
 
 ## Project list
 
-### [Pong](/Pong/)
+### [Pong](Pong )
 
 - Inspired by original arcade sports video game Pong from 1972
 
