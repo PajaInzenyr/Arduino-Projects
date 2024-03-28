@@ -1,6 +1,6 @@
 # Arduino Projects Portfolio
 
-This repository contains my Arduino Projects which I do for fun. 
+This repository contains my Arduino Projects which I do in my free time. Main purpose of this repository is for me to learn new things and showcase my work to others.
 
 ## Project list
 
