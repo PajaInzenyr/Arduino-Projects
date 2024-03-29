@@ -6,7 +6,10 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Preview
 
-![Preview video](/pong/preview.mp4)
+<video width="1024" height="768" controls>
+    <source src="/pong/preview.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ## Components
 
