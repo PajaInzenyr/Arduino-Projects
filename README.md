@@ -6,7 +6,7 @@ Main purpose of this repository is for me to learn new things and showcase my wo
 
 ## Project list
 
-### [Pong](Pong )
+### [Pong](pong )
 
 - Inspired by original arcade sports video game from 1972
 
