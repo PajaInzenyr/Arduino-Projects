@@ -19,14 +19,19 @@ This project is making use of limited hardware and software capabilities of an A
 
 ![diagram](/pong/diagram.svg)
 
+## Usage
+
+When the ball hits your wall, your oponent gains a point. 
+The score resets once the score of a player exceeds 9.
+The ball speeds up after every 5 successful bounces.
+
 ## Code
 
 ### Used libraries
 
 - [u8g2](https://github.com/olikraus/u8g2)
 
----
-
-> [!IMPORTANT]
-> **TO DO**
->  - [ ] Tidy up the code
+> [!NOTE]
+> - SPI OLED is not required but was chosen for better speed and smoother operation.
+>   - You can use any other OLED supported by u8g2 library. Just change the display initialization and define pins.
+> - Code deserves a revision and it's not perfect but totally functional in my test cases
