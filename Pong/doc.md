@@ -4,9 +4,9 @@ One of the earliest arcade video games released in 1972. Pong resembles two play
 
 This project is making use of limited hardware and software capabilities of an Arduino. Using only relatively simple math and basic compoments. 
 
-## Schematic
+## Diagram
 
-
+![diagram](/Pong/diagram.svg)
 
 ## Components
 
