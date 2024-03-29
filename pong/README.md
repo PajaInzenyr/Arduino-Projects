@@ -8,6 +8,8 @@ This project is making use of limited hardware and software capabilities of an A
 
 [![preview video](http://img.youtube.com/vi/TSi0fp79siA/0.jpg)](http://www.youtube.com/watch?v=TSi0fp79siA)
 
+![preview gif](/pong/preview.gif)
+
 ## Components
 
 - Arduino Uno
