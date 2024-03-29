@@ -31,6 +31,8 @@ The ball speeds up after every 5 successful bounces.
 
 - [u8g2](https://github.com/olikraus/u8g2)
 
+---
+
 > [!NOTE]
 > - SPI OLED is not required but was chosen for better speed and smoother operation.
 >   - You can use any other OLED supported by u8g2 library. Just change the display initialization and define pins.
