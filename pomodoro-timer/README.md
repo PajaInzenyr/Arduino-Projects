@@ -1,10 +1,10 @@
 # Pomodoro Timer 
 
-
+`intro`
 
 ## Preview
 
-
+`gif + video`
 
 ## Components
 
@@ -20,7 +20,7 @@
 
 ## Usage
 
-
+`usage`
 
 ## Code
 
