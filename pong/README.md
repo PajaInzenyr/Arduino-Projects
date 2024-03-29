@@ -6,7 +6,7 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Preview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TSi0fp79siA" frameborder="0" allowfullscreen></iframe>
+[![preview video](http://img.youtube.com/vi/TSi0fp79siA/0.jpg)](http://www.youtube.com/watch?v=TSi0fp79siA)
 
 ## Components
 
