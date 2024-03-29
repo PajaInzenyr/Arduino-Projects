@@ -6,8 +6,8 @@
 #define RES 10
 #define MOSI 11
 #define CLK 13
-#define inputX_1 A5
-#define inputX_2 A4
+#define inputX_1 A4
+#define inputX_2 A5
 #define WIDTH 128
 #define HEIGHT 64
 
