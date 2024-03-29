@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <U8g2lib.h>
-#include <TM1637Display.h>
+#include <TM1637TinyDisplay.h>
 
 #define BTN1 5
 #define BTN2 6
@@ -16,9 +16,9 @@
 #define HEIGHT 128
 
 U8G2_SH1106_128X64_NONAME_1_HW_I2C oled(U8G2_R3); // rotation is set to vertical layout
-TM1637Display display(CLK, DIO);
+TM1637TinyDisplay display(CLK, DIO);
 
-int8_t minutes = 40;
+int8_t minutes = 2;
 int8_t seconds = 0;
 
 uint16_t sessionLenght = 0;
@@ -49,6 +49,7 @@ void setup() {
   oled.begin();
   oled.setContrast(160);
 
+  display.begin();
   display.setBrightness(2);
 }
 

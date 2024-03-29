@@ -26,6 +26,6 @@
 
 ### Used libraries
 
-- [TM1637](https://github.com/avishorp/TM1637)
+- [TM1637TinyDisplay](https://github.com/jasonacox/TM1637TinyDisplay)
 - [u8g2](https://github.com/olikraus/u8g2)
 
