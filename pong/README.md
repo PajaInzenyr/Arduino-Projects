@@ -6,10 +6,8 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Preview
 
-<video width="1024" height="768" controls>
-    <source src="/pong/preview.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://youtu.be/TSi0fp79siA" frameborder="0" allowfullscreen></iframe>
+
 
 ## Components
 
