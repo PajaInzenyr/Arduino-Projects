@@ -6,7 +6,7 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Preview
 
-%[Preview video](preview.mp4)%
+![Preview video](/pong/preview.mp4)
 
 ## Components
 
@@ -17,7 +17,7 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Diagram
 
-![diagram](/Pong/diagram.svg)
+![diagram](/pong/diagram.svg)
 
 ## Code
 
