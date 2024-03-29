@@ -16,6 +16,5 @@ This project is making use of limited hardware and software capabilities of an A
 ![diagram](/Pong/diagram.svg)
 
 
-> [!NOTE] TO DO
+> [!NOTE]
 > Tidy up the code
- 
