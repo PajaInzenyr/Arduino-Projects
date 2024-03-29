@@ -6,10 +6,7 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Preview
 
-<video width="1024" height="768" controls>
-  <source src="preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+%[Preview video](preview.mp4)%
 
 ## Components
 
