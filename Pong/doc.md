@@ -15,6 +15,12 @@ This project is making use of limited hardware and software capabilities of an A
 
 ![diagram](/Pong/diagram.svg)
 
+## Code
+
+### Used libraries
+
+- [u8g2](https://github.com/olikraus/u8g2)
+
 ---
 
 > [!IMPORTANT]
