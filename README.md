@@ -10,4 +10,7 @@ Main purpose of this repository is for me to learn new things and showcase my wo
 
 - Inspired by original arcade sports video game from 1972
 
+---
+
 > *This repository is heavily work in progress, new projects and documentation will be added*
+
