@@ -6,7 +6,7 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Preview
 
-[![preview gif](/pong/preview.gif)](http://www.youtube.com/watch?v=TSi0fp79siA)
+[![preview gif](/pong/preview.gif){:width="400px"}](http://www.youtube.com/watch?v=TSi0fp79siA)
 
 ## Components
 
@@ -17,7 +17,7 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Diagram
 
-![diagram](/pong/diagram.svg)
+![diagram](/pong/diagram.svg){:width="600px"}
 
 ## Code
 
