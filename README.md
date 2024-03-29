@@ -10,7 +10,7 @@ Main purpose of this repository is for me to learn new things and showcase my wo
 
 - Inspired by original arcade sports video game from 1972
 
-### Pomodoro timer [Pomodoro-timer](/pomodoro-timer/)
+### [Pomodoro-timer](/pomodoro-timer/)
 
 - Pomodoro-like timer with adjustable work/focus duration
 
