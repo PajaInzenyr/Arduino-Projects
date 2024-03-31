@@ -4,7 +4,9 @@ Pomodoro technique si a time management method which breaks work into time inter
 
 ## Preview
 
-`gif + video`
+|  |  |
+| --- | ---- |
+| [![preview gif](/pomodoro-timer/preview1.gif)](http://www.youtube.com/watch?v=TSi0fp79siA) | [![preview gif](/pomodoro-timer/preview2.gif)](http://www.youtube.com/watch?v=TSi0fp79siA) |
 
 ## Components
 
