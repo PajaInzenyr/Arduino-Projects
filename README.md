@@ -16,4 +16,5 @@ Main purpose of this repository is for me to learn new things and showcase my wo
 
 ---
 
+> [!WARNING]
 > *This repository is heavily work in progress, new projects and documentation will be added*
