@@ -29,5 +29,5 @@ When powering the Arduino the default focus time is set to 40 minutes. You can u
 ### Used libraries
 
 - [TM1637Display](https://github.com/avishorp/TM1637)
-- [u8g2](https://github.com/olikraus/u8g2)
+- [U8g2](https://github.com/olikraus/u8g2)
 
