@@ -29,7 +29,7 @@ The ball speeds up after every 5 successful bounces.
 
 ### Used libraries
 
-- [u8g2](https://github.com/olikraus/u8g2)
+- [U8g2](https://github.com/olikraus/u8g2)
 
 ---
 
