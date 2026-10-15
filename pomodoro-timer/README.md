@@ -18,7 +18,7 @@ Pomodoro technique si a time management method which breaks work into time inter
 
 ## Diagram
 
-![diagram](/pomodoro-timer/diagram.svg)
+![diagram](/pomodoro-timer/diagram.png)
 
 ## Usage
 
