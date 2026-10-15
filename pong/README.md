@@ -17,7 +17,7 @@ This project is making use of limited hardware and software capabilities of an A
 
 ## Diagram
 
-![diagram](/pong/diagram.svg)
+![diagram](/pong/diagram.png)
 
 ## Usage
 
